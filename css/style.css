@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+h1{
+    text-align: center;
+    color: #687EFF;
+}
+.box{
+    margin: 10px;
+    width: 250px; 
+}
+a{
+    text-decoration: none;
+    color: #687EFF;
+    background-color: #98E4FF;
+    text-align: center;
+    font-size: larger;
+    padding: 15px;
+    display: block;
+    border-radius: 25px;
+
+}
+a:hover{
+    background-color: #687EFF;
+    color: #B6FFFA;
+}
+
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
